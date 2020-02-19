@@ -1,0 +1,26 @@
+
+/* the font of new roman is bad to read in monitor */
+
+h1{
+    background-color: #80d4ff;
+    color:#4d4d4d;
+    /* font-size: 35pt; */
+    font-size: 300%;
+    font-weight: normal;
+}
+
+body{
+    background-color: #F8F8FF;
+    color:#404040;
+    font-family: Arial, Helvetica, sans-serif;
+    /* put quotes when the font name has space 'Lucida ddwa' */
+}
+
+p{
+    /* color: blanchedalmond; */
+    font-style: italic;
+}
+
+strong{
+    color: black;
+}

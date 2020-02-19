@@ -1,0 +1,38 @@
+h1{
+    font-weight: normal;
+    color: #003380;
+}
+
+h2{
+    color: #8000ff;
+}
+
+body{
+    background-color: #adebeb;
+}
+
+strong{
+    color: red;
+}
+
+p{
+    color: #0052cc;
+}
+
+a:link{
+    color: green;
+    text-decoration: none;
+}
+
+a:visited{
+    color: orange;
+    text-decoration: none;
+}
+
+a:hover{
+    color: purple;
+}
+
+a:active{
+    color: blue;
+}
