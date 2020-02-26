@@ -1,0 +1,32 @@
+body{
+    background-color: #FFFF99;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    background-color: #FFFFFF;
+}
+
+h1{
+    color: #0083CA;
+}
+
+nav{
+    background-color: #FCB712;
+}
+
+section{
+    background-color: #3BC6F3;
+}
+
+article{
+    background-color: #D7F3FC;
+}
+
+footer{
+    background-color: #0083CA;
+}
+
+div{
+    background-color: #FFDE00;
+}
