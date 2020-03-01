@@ -11,6 +11,24 @@ h1{
     display: inline-flex;
 }
 
+h2 {
+    margin: 20px;
+}
+
+h3 {
+    margin: 20px;
+}
+
+p {
+    margin: 20px;
+    line-height: 20px;
+}
+
+div {
+    background-color: #e8e6e6;
+     margin: -20px; 
+}
+
 .figure{
     vertical-align: -60px;
 }
@@ -34,4 +52,10 @@ div{
 
 h3{
     font-size: 120%;
+}
+
+footer{
+    font-size: 80%;
+    background-color: #ec008c;
+    margin-left: -5px;
 }
