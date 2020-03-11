@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.secth1{
+    color: #61B9FF;
+    margin-bottom: 20px;
+}
+
+.sectp{
+    margin-top: 20px;
+}
+
+.headerh1{
+    color: #77A423;
+    border-bottom: 3px solid #61B9FF;
+}
+
+.headerp{
+    color: rgb(99, 129, 43);
+    margin-bottom: 25px;
+    margin-top: 5px;
+    font-style: italic;
+}
+
+h2{
+    margin-top: 20px;
+}
+
+footer{
+    margin-top: 20px;
+    background-color: yellow;
+    border-top: 3px solid #61B9FF;
+}
+
+.footerp{
+    display: inline-block;
+    padding: 3px;
+    font-style: italic;
+}

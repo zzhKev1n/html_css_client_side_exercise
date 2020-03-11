@@ -1,0 +1,48 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul{
+    background-color: #A1CC3A;
+}
+
+li{
+    display: inline-block;
+    padding: 15px;
+}
+
+footer{
+    background-color: #A1CC3A;
+}
+
+section{
+    margin: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: #666363;
+}
+
+a:hover{
+    color: white;
+    text-decoration: underline;
+}
+
+h1{
+    color: #A1CC3A;
+}
+
+footer{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+h2{
+    color: #666363;
+}
+
+h3{
+    color: #666363;
+}
